@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Built-By: Tin
 Build-Jdk: 11.0.2
+Implementation-Title: Common
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.ltq.common
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/LTQCorp/Common
 Created-By: Maven Integration for Eclipse
 

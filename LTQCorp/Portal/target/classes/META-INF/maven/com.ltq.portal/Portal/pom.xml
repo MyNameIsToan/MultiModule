@@ -7,4 +7,7 @@
   </parent>
   <groupId>com.ltq.portal</groupId>
   <artifactId>Portal</artifactId>
+  <properties>
+  	<java.version>11</java.version>
+  </properties>
 </project>

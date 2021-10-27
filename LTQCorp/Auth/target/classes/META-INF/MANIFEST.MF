@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Built-By: Tin
 Build-Jdk: 11.0.2
+Implementation-Title: Auth
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.ltq.auth
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/LTQCorp/Auth
 Created-By: Maven Integration for Eclipse
 

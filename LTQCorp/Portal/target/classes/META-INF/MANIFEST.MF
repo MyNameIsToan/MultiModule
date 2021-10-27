@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Built-By: Tin
 Build-Jdk: 11.0.2
+Implementation-Title: Portal
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.ltq.portal
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/LTQCorp/Portal
 Created-By: Maven Integration for Eclipse
 
